@@ -1,5 +1,5 @@
 # Note
-
+AUTHOR: MD MAHFUZUR RAHMAN SIAM I work as a Computer Engineer, Web Designer & Developer, App Developer, Digital marketer, Researcher, Content creator at Facebook, Youtube, Rumble, Instagram & Tiktok. Email: ksiam3409@gmail.com Website: https://siammahfuz.github.io/
 THIS PROJECT IS DEPRECATED and no longer maintained. A newer version of the project that uses the Angular CLI and the latest version of Angular can be found here: 
 
 https://github.com/siammahfuz/CustomerService-in-ASP.NET-with-Angular
