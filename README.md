@@ -2,7 +2,7 @@
 
 THIS PROJECT IS DEPRECATED and no longer maintained. A newer version of the project that uses the Angular CLI and the latest version of Angular can be found here: 
 
-https://github.com/DanWahlin/AngularCLI-ASPNET-Core-CustomersService
+https://github.com/siammahfuz/CustomerService-in-ASP.NET-with-Angular
 
 This project has been updated to use the latest version of Angular and RxJS but does not use the Angular CLI (it uses System.js to load modules). Key changes from
 the Pluralsight course include:
